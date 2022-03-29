@@ -15,7 +15,7 @@
 
 
   
-### using Minimax Algorithm 
+### Using Minimax Algorithm 
   
 🔎[View Demo](https://github.com/seraph776/TicTacToe#screenshot) · 🐛[Report Bug](https://github.com/seraph776/TicTacToe/issues) ·📫 [Contact me](https://github.com/seraph776/TicTacToe#contact)  
  
