@@ -59,7 +59,7 @@ project-env\scripts\activate.bat
 
 5. Run the application from within virtual environment:
 ```
-python app\main.py
+python app\game.py
 ```
 
 ##  🤝 Contribute 
@@ -82,6 +82,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - [Shields IO](https://shields.io/)
 - [Choose a License](https://choosealicense.com/licenses/mit/)
+- [Coding an UNBEATABLE Tic Tac Toe AI (Game Theory Minimax Algorithm EXPLAINED)](https://www.youtube.com/watch?v=fT3YWCKvuQE&t=13s)
 
 
 <div align="right">
