@@ -10,9 +10,11 @@
 ![GitHub issues](https://img.shields.io/github/issues-raw/seraph776/TicTacToe?color=yellow&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/seraph776/TicTacToe?style=for-the-badge)
   
- 
-<img src="https://user-images.githubusercontent.com/72005563/160702967-839b33e2-4da3-4d48-81c6-94f047a6ae89.png" width="150">
+  
+![image](https://user-images.githubusercontent.com/72005563/160709634-e2deb702-5bec-47d5-97f8-3ad49a9de2d9.png)
 
+
+  
 ### using Minimax Algorithm 
   
 🔎[View Demo](https://github.com/seraph776/TicTacToe#screenshot) · 🐛[Report Bug](https://github.com/seraph776/TicTacToe/issues) ·📫 [Contact me](https://github.com/seraph776/TicTacToe#contact)  
